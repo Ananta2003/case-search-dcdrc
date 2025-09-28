@@ -1,0 +1,45 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.env
+.env.*
+
+# Logs
+*.log
+
+# PyInstaller
+*.spec
+
+# Coverage/test files
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+.pytest_cache/
+
+# Local SQLite DB (if any)
+*.db
+*.sqlite3
