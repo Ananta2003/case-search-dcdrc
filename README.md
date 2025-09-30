@@ -63,7 +63,7 @@ https://youtu.be/_CsxOXUDYhc
 
 
 4. Run the server
-    uvicorn app.main:app --reload
+    uvicorn main:app --reload
 
 🚀 API Endpoints
 🔹 Supporting Endpoints
@@ -121,5 +121,6 @@ Available routes:
       Handle Captcha gracefully if required.
       
       Extendable for other courts/commissions in future.
+
 
 
